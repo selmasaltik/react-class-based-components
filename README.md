@@ -38,3 +38,8 @@ Traditionally, you had to use class-based components to manage ***“State”***
 React 16.8 introduced ***“React Hooks”*** for ***functional*** components
 
 ***Class-based*** components ***can’t use*** React Hooks
+
+['this' Keyword & Function References][def]
+
+
+[def]: https://academind.com/tutorials/this-keyword-function-references/
